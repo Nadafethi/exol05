@@ -1,1 +1,1 @@
-consol.log("woow!")
+consol.log("Woow!")
